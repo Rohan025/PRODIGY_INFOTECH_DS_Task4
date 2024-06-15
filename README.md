@@ -1,2 +1,4 @@
 # PRODIGY_INFOTECH_DS_Task4
-Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
+This project performs a sentiment analysis on Twitter data.
+The code uses a dataset of tweets to analyze the sentiment distribution across different entities and specifically for Microsoft.
+The analysis includes handling missing data, removing duplicates, and visualizing the sentiment distribution.
